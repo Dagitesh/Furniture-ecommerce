@@ -1,0 +1,17 @@
+.footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+  }
+  
+  .footer p:first-child {
+    font-weight: bold;
+  }
+  
+  .footer p:last-child {
+    margin-top: 20px;
+  }

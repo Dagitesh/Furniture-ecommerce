@@ -1,0 +1,16 @@
+
+
+.header {
+    background-color: rgba(71, 125, 183, 0);
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    
+  }
+  
+
+ul li{
+    color: black;
+}
+  
